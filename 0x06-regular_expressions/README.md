@@ -1,16 +1,20 @@
 
 Curriculum
 SE Foundations
-Average: 121.11%
-You just released the advanced tasks of this project. Have fun!
+Average: 120.05%
 0x06. Regular expression
 Regex
 DevOps
  By: Sylvain Kalache
  Weight: 1
- Project will start Feb 27, 2024 6:00 AM, must end by Feb 28, 2024 6:00 AM
- Checker was released at Feb 27, 2024 12:00 PM
+ Ongoing second chance project - started Feb 27, 2024 6:00 AM, must end by Mar 2, 2024 6:00 AM
  An auto review will be launched at the deadline
+In a nutshell…
+Auto QA review: 9.0/24 mandatory & 1.0/9 optional
+Altogether:  41.67%
+Mandatory: 37.5%
+Optional: 11.11%
+Calculation:  37.5% + (37.5% * 11.11%)  == 41.67%
 Concepts
 For this project, we expect you to look at this concept:
 
@@ -49,6 +53,7 @@ Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
 0. Simply matching School
 mandatory
+Score: 50.0% (Checks completed: 50.0%)
 
 
 Requirements:
@@ -70,9 +75,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 0-simply_match_school.rb
-   
+    
 1. Repetition Token #0
 mandatory
+Score: 33.33% (Checks completed: 33.33%)
 
 
 Requirements:
@@ -84,9 +90,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 1-repetition_token_0.rb
-   
+    
 2. Repetition Token #1
 mandatory
+Score: 33.33% (Checks completed: 33.33%)
 
 
 Requirements:
@@ -98,9 +105,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 2-repetition_token_1.rb
-   
+    
 3. Repetition Token #2
 mandatory
+Score: 33.33% (Checks completed: 33.33%)
 
 
 Requirements:
@@ -112,9 +120,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 3-repetition_token_2.rb
-   
+    
 4. Repetition Token #3
 mandatory
+Score: 33.33% (Checks completed: 33.33%)
 
 
 Requirements:
@@ -127,9 +136,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 4-repetition_token_3.rb
-   
+    
 5. Not quite HBTN yet
 mandatory
+Score: 60.0% (Checks completed: 60.0%)
 Requirements:
 
 The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between
@@ -151,9 +161,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 5-beginning_and_end.rb
-   
+    
 6. Call me maybe
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 This task is brought to you by a professional advisor Neha Jain, Senior Software Engineer at LinkedIn.
 
 Requirement:
@@ -175,9 +186,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 6-phone_number.rb
-   
+    
 7. OMG WHY ARE YOU SHOUTING?
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 
 
 Requirement:
@@ -197,9 +209,10 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 7-OMG_WHY_ARE_YOU_SHOUTING.rb
-   
+    
 8. Textme
 #advanced
+Score: 11.11% (Checks completed: 11.11%)
 This exercise was prepared for you by Guillaume Plessis, VP of Infrastructure at TextMe. It is something he uses daily. You can thank Guillaume for his project on Twitter.
 
 For this task, you’ll be taking over Guillaume’s responsibilities: one afternoon, a TextMe VoIP Engineer comes to you and explains she wants to run some statistics on the TextMe app text messages transactions.
@@ -234,7 +247,7 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x06-regular_expressions
 File: 100-textme.rb
-   
+    
 Copyright © 2024 ALX, All rights reserved.
 
 
